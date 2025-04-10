@@ -1,5 +1,4 @@
 <h1 align="center">Olá, meu nome é Leandro ! 👋</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação...</h3>
 
 <p>Sou um estudante da área de Desenvolvimento de Sistemas. Tenho foco em me especializar continuamente na área, buscando sempre expandir meus conhecimentos e habilidades para me tornar um profissional altamente qualificado.</p>
 
