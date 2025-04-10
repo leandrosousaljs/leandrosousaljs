@@ -22,6 +22,17 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosousaljs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<h2>Principais Projetos</h2>
+
+<p align="center">
+  <a href="https://github.com/leandrosousaljs/efood" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=efood&theme=dark" alt="efood projeto">
+  </a>
+  <a href="https://github.com/leandrosousaljs/eplay" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=eplay&theme=dark" alt="eplay projeto">
+  </a>
+</p>
+
 <h2>Entre em contato</h2>
 
 <div>
