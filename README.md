@@ -1,16 +1,26 @@
-## Hi there 👋
+### Olá, meu nome é Leandro 👋
 
-<!--
-**leandrosousaljs/leandrosousaljs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Sobre mim
+  Sou um estudante da área de Desenvolvimento de Sistemas. Tenho foco em me especializar continuamente na área, buscando sempre expandir meus conhecimentos e habilidades para me tornar um profissional altamente qualificado.
 
-Here are some ideas to get you started:
+### Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrosousaljs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Principais projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=eplay.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=efood.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosousaljs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Entre em contato
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/leandrosousaljs/)
