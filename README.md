@@ -1,9 +1,9 @@
-### Olá, meu nome é Leandro 👋
+<h1 align="center">Olá, meu nome é Leandro ! 👋</h1>
+<h3 align="center">Desenvolvedor Full Stack em formação...</h3>
 
-###### Sobre mim
-  Sou um estudante da área de Desenvolvimento de Sistemas. Tenho foco em me especializar continuamente na área, buscando sempre expandir meus conhecimentos e habilidades para me tornar um profissional altamente qualificado.
+<p>Sou um estudante da área de Desenvolvimento de Sistemas. Tenho foco em me especializar continuamente na área, buscando sempre expandir meus conhecimentos e habilidades para me tornar um profissional altamente qualificado.</p>
 
-### Habilidades
+<h2 class="heading-element" dir="auto">Habilidades</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,16 +14,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandrosousaljs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosousaljs&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosousaljs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosousaljs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-### Principais projetos
+<h2>Entre em contato</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=eplay&theme=dark)](https://github.com/leandrosousaljs/eplay)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=efood&theme=dark)](https://github.com/leandrosousaljs/efood)
-
-### Entre em contato
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/leandrosousaljs/)
+<div>
+<a href="https://www.linkedin.com/in/leandrosousaljs" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
