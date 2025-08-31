@@ -75,8 +75,8 @@
   <a href="https://ljs-movie-finder.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=movie-finder&theme=dark" alt="movie finder projeto">
   </a>
-  <a href="https://github.com/leandrosousaljs/subscription-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=subscription-tracker&theme=dark" alt="subscription tracker projeto">
+  <a href="https://leandrosousaljs.pythonanywhere.com">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=twitter&theme=dark" alt="twitter clone projeto">
   </a>
   <a href="https://ljs-efood.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=efood&theme=dark" alt="efood projeto">
