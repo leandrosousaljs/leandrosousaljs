@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
 </p>
 
-<h3>Ferramentas</h3>
+<h3>Ferramentas, Testes e DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -72,6 +72,12 @@
 <h2>Principais Projetos</h2>
 
 <p align="center">
+  <a href="https://ljs-movie-finder.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=movie-finder&theme=dark" alt="movie finder projeto">
+  </a>
+  <a href="https://ljs-eplay.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=subscription-tracker&theme=dark" alt="subscription tracker projeto">
+  </a>
   <a href="https://ljs-efood.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=efood&theme=dark" alt="efood projeto">
   </a>
