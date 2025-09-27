@@ -90,7 +90,7 @@
 
 <p align="center">
   <a href="https://ljs-yc-directory.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=yc-directory&theme=dark" alt="yc directory projeto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=yc_directory&theme=dark" alt="yc directory projeto">
   </a>
   <a href="https://ljs-movie-finder.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=movie-finder&theme=dark" alt="movie finder projeto">
