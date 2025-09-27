@@ -89,14 +89,14 @@
 <h2>Principais Projetos</h2>
 
 <p align="center">
+  <a href="https://ljs-yc-directory.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=yc-directory&theme=dark" alt="yc directory projeto">
+  </a>
   <a href="https://ljs-movie-finder.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=movie-finder&theme=dark" alt="movie finder projeto">
   </a>
   <a href="https://leandrosousaljs.pythonanywhere.com">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=twitter&theme=dark" alt="twitter clone projeto">
-  </a>
-  <a href="https://ljs-efood.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=efood&theme=dark" alt="efood projeto">
   </a>
   <a href="https://ljs-eplay.vercel.app/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=eplay&theme=dark" alt="eplay projeto">
