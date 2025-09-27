@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -46,8 +47,9 @@
 
 <h3>Nuvem</h3>
 <p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQwIDI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBmaWxsPSIjMDBBM0U3IiBkPSJNMTIwIDI0MCAxMDAgMTk2bC01MC0xMjAgNzAgMEwxMjAgMjQweiIvPjxwYXRoIGZpbGw9IiMwMDg5RDYiIGQ9Ik0xMjAgMjQwIDE0MCAxOTZsNTAtMTIwLTcwIDBMMTIwIDI0MHoiLz48cGF0aCBmaWxsPSIjMDBGM0U3IiBkPSJNNTAgMTIwIDExMCA3MC4zIDIwMCAxMjB6Ii8+PC9zdmc+&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY5NTAwIiB2aWV3Qm94PSIwIDAgMjQwIDI0MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnL3N2ZyI+PHBhdGggZD0iTTE0Mi42IDgzLjJoLTEuM0w5OSA3LjMgNTcuNyA4My4ySDU2LjNsNDAuNS03My4zTDEzOC43IDgzLjJoLTMuM3ptLTc0LjggMTUzLjJjLTI5LjYtNy40LTUyLjItMjEuNy03Ni40LTQxLjdsMTIuNC0xNS4yYzE4IDIxLjMgMzQuMyAzNC42IDYwLjQgNDEuNCAxNi44IDMuOSA0NC44IDYuNiA2NC40LTQuNC0yLjggMTIuNy0xMy42IDI2LjgtMjYuNiAzNC45LTE3LjggMTAuNS00Ni42IDEyLjEtNjYuMiA3LjgtMi4yLS40LTUuOC0xLjUtOC42LTIuM3ptMTM0LTExYy0yMC4yIDYuMS00NS4zIDguMi02NS40IDQuMS0yMy43LTQuOC00Mi4yLTE4LjItNjAuMy0zNi45bDEzLjItMTMuNmMxNC4zIDE0LjcgMjguMiAyNC4zIDQ3LjMgMjguMyAxNi40LjIgMzIuMy0zLjIgNDUuNi05LjZsMTYuNiAxNWMtMTMuNiA4LjctMjUuNiAxNC43LTM4IDkuOHoiLz48L3N2Zz4=&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </p>
 
