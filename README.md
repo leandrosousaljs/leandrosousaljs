@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Leandro ! 👋</h1>
+<h1 align="center">Oi, eu sou o Leandro ! 👋</h1>
 
 <p>Sou um Desenvolvedor Full Stack, cursando bacharelado em Ciência da Computação e formado em Desenvolvimento Full Stack Python pela EBAC. Tenho foco em me especializar continuamente na área, buscando sempre expandir meus conhecimentos e habilidades para me tornar um profissional altamente qualificado.</p>
 
