@@ -83,26 +83,8 @@
 <h2>GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrosousaljs&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosousaljs&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<h2>Principais Projetos</h2>
-
-<p align="center">
-  <a href="https://ljs-yc-directory.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=yc_directory&theme=dark" alt="yc directory projeto">
-  </a>
-  <a href="https://ljs-movie-finder.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=movie-finder&theme=dark" alt="movie finder projeto">
-  </a>
-  <a href="https://leandrosousaljs.pythonanywhere.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=twitter&theme=dark" alt="twitter clone projeto">
-  </a>
-  <a href="https://ljs-eplay.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leandrosousaljs&repo=eplay&theme=dark" alt="eplay projeto">
-  </a>
-</p>
 
 <h2>Entre em contato</h2>
 
