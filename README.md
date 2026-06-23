@@ -1,6 +1,12 @@
 <h1 align="center">Oi, eu sou o Leandro ! 👋</h1>
 
-<p>Estudante de Ciência da Computação com foco em desenvolvimento web full stack. Construo aplicações full stack com foco em performance, experiência do usuário e boas práticas de desenvolvimento.</p>
+## Sobre mim
+
+- 💻 Desenvolvedor Full Stack
+- 🎓 Bacharelando em Ciência da Computação
+- 🚀 Focado em React, Next.js e Node.js
+- 📚 Sempre aprendendo novas tecnologias
+- 🎮 Nas horas vagas gosto de jogos e esportes
 
 <h2>Stack Principal</h2>
 
