@@ -1,4 +1,4 @@
-# Oi, eu sou o Leandro 👋
+<h1 align="center">Oi, eu sou o Leandro 👋</h1>
 
 ## Sobre mim
 
