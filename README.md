@@ -1,7 +1,5 @@
 <h1 align="center">Oi, eu sou o Leandro 👋</h1>
 
-## Sobre mim
-
 - 💻 Desenvolvedor Full Stack com foco em aplicações web
 - 🎓 Bacharelando em Ciência da Computação
 - 🚀 Focado em React, Next.js e Node.js
